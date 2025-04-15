@@ -28,5 +28,18 @@ Compared with Google Maps:
 - 🚗 Improved route efficiency by **up to 35 minutes**
 - 📉 Demonstrated **30% gain in efficiency**
 - ✅ Enhanced usability for logistics and delivery-based industries
+  
+---
 
+## 👥 Contributors
+
+- **Agrima Kumar** – [agrima0306@gmail.com](mailto:agrima0306@gmail.com)  
+- **Varad Tambe** – [tambevarad7@gmail.com](mailto:tambevarad7@gmail.com)  
+- **T. R. Aakash Raj** – [aakash08raj@gmail.com](mailto:aakash08raj@gmail.com)  
+- **Mariam Thomas** – [mthms2002@gmail.com](mailto:mthms2002@gmail.com)  
+- **Dr. Kiruthika M.** (Faculty Guide) – [m.kiruthika@fcrit.ac.in](mailto:m.kiruthika@fcrit.ac.in)  
+
+All authors are from the **Department of Computer Engineering, Agnel Charities Fr. C. Rodrigues Institute of Technology**, Navi Mumbai, India.
+
+---
 
